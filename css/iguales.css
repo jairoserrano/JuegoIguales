@@ -1,0 +1,16 @@
+/* 
+    Document   : custom
+    Created on : 21/08/2012, 02:23:35 PM
+    Author     : Jairo Serrano
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body {
+    padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+    overflow: hidden; 
+}
+.igboton{
+    height: 100px;
+    width: 100px;
+}
